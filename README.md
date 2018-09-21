@@ -1,6 +1,6 @@
 # Inteligancia Artificial (MT616) 
 
-Este es el repositorio del curso de Inteligancia Artificial (MT616) que estoy dictando en la Universidad Nacional de Ingeniería donde nos enfocamos principalmente en el area de machine learning (ML)
+Este es el repositorio de los labs del curso de Inteligancia Artificial (MT616) que estoy dictando en la Universidad Nacional de Ingeniería donde nos enfocamos principalmente en el area de machine learning (ML)
 
 ## UNI Machine Learning 2018-2
 
