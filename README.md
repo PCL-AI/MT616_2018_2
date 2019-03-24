@@ -2,7 +2,7 @@
 
 Este es el repositorio de los labs del curso de Inteligancia Artificial (MT616) que estoy dictando en la Universidad Nacional de Ingeniería donde nos enfocamos principalmente en el area de machine learning (ML)
 
-https://piazza.com/universidad_nacional_de_ingenieria/fall2018/mt616/home
+https://piazza.com/universidad_nacional_de_ingenieria/spring2019/mt616/home
 
 ## UNI Machine Learning 2018-2
 
